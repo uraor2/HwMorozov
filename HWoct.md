@@ -10,7 +10,7 @@ int main (void){
   }
   else
   {
-  for(i=1,i=n+1,i++)
+  for(i=1,i=n+1,i++);
   y=y*x;
   }
   printf("%d",y);
